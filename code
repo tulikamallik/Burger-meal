@@ -1,0 +1,61 @@
+<DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+<meta name="viewport" content="width-device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie-edge">
+<title>landing Page</title>
+<link rel="stylesheet" href="style.css">
+<link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css"
+    rel="stylesheet"/>
+
+</head>
+<body>
+    <div id="main">
+        <div class="top">
+           <div class="over"></div>
+           <div class="text"></div>
+           <h1>Images</h1>
+           <div class="images"></div>
+           <div class="rtext">
+            <p>mesmerising</p>
+            <p>Images</p>
+           </div>
+           <div class="icons">
+            <i class="ri-instagram-line"></i>
+            <i class="ri-facebook-box-fill"></i>
+            <i class="ri-twitter-line"></i>
+           </div>
+
+        </div>
+        <div class="bottom">
+            <div class="b1">
+                <h1>popular</h1>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos iusto autem alias magnam sint explicabo?</p>
+            </div>
+                <div class="b2">
+                    <div class="up">
+                        <h1>latest</h1>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia, voluptas ipsum!</p>
+                    </div>
+                    <div class="down">
+                         <div class="overlay">
+                            <h1>More...</h1>
+                         </div> 
+                    </div>
+                </div>
+                <div class="b3">
+                    <div class="overlay">
+                        <p>Privacy Policies</p>
+                        <p>terms and Condition</p>
+                        <p>Contact Us</p>
+                        <P>About Us</P>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+</body>
+    </html>
+</DOCTYPE>
